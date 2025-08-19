@@ -29,7 +29,6 @@ I use this space to share projects I’m working on, experiment with new technol
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <br/>
 
-<!-- Non-devicon tools as badges -->
 <br/><br/>
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
@@ -51,6 +50,3 @@ I use this space to share projects I’m working on, experiment with new technol
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noisewastaken&layout=compact&theme=tokyonight)
 
 ---
-
-### 💡 Fun Fact
-I started coding out of curiosity — now I can’t stop building things just to see if they’ll work 🚀
