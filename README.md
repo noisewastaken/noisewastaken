@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Noise Also Known As Ethan.
+# 👋 Hey, I'm Ethan.
 
 **`Developer / Creator / Builder`**
 
